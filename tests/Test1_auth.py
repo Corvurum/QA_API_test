@@ -1,7 +1,7 @@
 import pytest
 import requests
-from Lib.base_case import BaseCase
-from Lib.assertions import Assertions
+from lib.base_case import BaseCase
+from lib.assertions import Assertions
 
 
 class TestAuth(BaseCase):
